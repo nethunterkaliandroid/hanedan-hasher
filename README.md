@@ -12,10 +12,14 @@ Aracımdan görüntüler:
 
 
 **KURULUM** : 
-> apt update && apt upgrade 
-apt install git python
-git clone https://github.com/nethunterkaliandroid/hanedan-hasher/
-cd hanedan-hasher
-bash installer.sh
-python3 hrsifreleme.py
+> - apt update && apt upgrade
+
+ - apt install git python 
+
+- git clone https://github.com/nethunterkaliandroid/hanedan-hasher/ 
+
+- cd hanedan-hasher 
+
+- bash installer.sh
+- python3 hrsifreleme.py
 
