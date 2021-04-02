@@ -8,7 +8,7 @@ Aracımdan görüntüler:
 
 ![IMG_20210402_124000](https://user-images.githubusercontent.com/72562835/113408837-c5feae80-93b8-11eb-812c-e2485988f626.jpg)
 
-![](gösterim.gif)
+![](önizleme.gif)
 
 
 
