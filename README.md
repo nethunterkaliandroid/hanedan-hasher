@@ -1,17 +1,19 @@
 # hanedan-hasher
-MD5 ve SHA256 şifreleyici araç
+
+**MD5 ve SHA256 şifreleyici araç**
 
 
-![](https://user-images.githubusercontent.com/72562835/113408868-d2830700-93b8-11eb-9b26-254fac45e5f9.jpg=600x600)
+<img src="https://user-images.githubusercontent.com/72562835/113408868-d2830700-93b8-11eb-9b26-254fac45e5f9.jpg" width="500" height="600">
 
-Aracımdan görüntüler:
+**Aracımdan görüntüler** :
 
-![](https://user-images.githubusercontent.com/72562835/113408837-c5feae80-93b8-11eb-812c-e2485988f626.jpg)
+
+<img src="https://user-images.githubusercontent.com/72562835/113408837-c5feae80-93b8-11eb-812c-e2485988f626.jpg" width="500" height="600">
 
 
 **ÖNİZLEME**
 
-![](önizleme.gif)
+<img src="önizleme.gif" width="500" height="800">
 
 
 
