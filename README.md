@@ -14,7 +14,7 @@ Aracımdan görüntüler:
 **KURULUM** : 
 > - apt update && apt upgrade
 
-> - apt install git python 
+> - apt install git python3 
 
 > - git clone https://github.com/nethunterkaliandroid/hanedan-hasher/ 
 
@@ -22,4 +22,7 @@ Aracımdan görüntüler:
 
 > - bash installer.sh
 > - python3 hrsifreleme.py
+
+
+`Termux için apt install python kullanın`
 
