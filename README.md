@@ -1,4 +1,4 @@
-# hanedan-hasher
+# HANEDAN HASHER
 
 **MD5 ve SHA256 şifreleyici araç**
 
