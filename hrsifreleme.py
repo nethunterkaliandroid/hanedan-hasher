@@ -21,3 +21,5 @@ while True:
 
     else:
         print("Lütfen HÂNEDAN-I ROOT'a yakışır bir seçim yapınız.")
+#@nethunterROM
+#Tüm hakları m12345'e aittir.
